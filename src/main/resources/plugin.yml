@@ -1,0 +1,9 @@
+name: Illegals
+version: ${project.version}
+main: dev.bleepo.illegals.Illegals
+description: Make some fucking illegals nigga
+commands:
+  stack:
+    description: MAKE SOME FUCKING STACKS
+  32k:
+    description: EZZZZ 32KS
